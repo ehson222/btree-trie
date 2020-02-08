@@ -1,6 +1,5 @@
 //
 //  Trie.cpp
-//  leetcodembp17
 //
 //  Created by ehson Assani on 2/3/20.
 //  Copyright © 2020 ehson Assani. All rights reserved.
