@@ -1,6 +1,5 @@
 //
 //  Node.cpp
-//  leetcodembp17
 //
 //  Created by ehson Assani on 1/12/20.
 //  Copyright © 2020 ehson Assani. All rights reserved.
