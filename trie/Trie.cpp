@@ -58,7 +58,7 @@ bool Trie::startsWith(string& word){
     auto temp = find_string(root, word);
     
     if(temp){
-        cout << temp->count << " words starting with " << word << endl;
+        cout << temp->count << " words starting with: " << word << endl;
         return true;
     } else{
         return false;
