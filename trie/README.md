@@ -216,6 +216,8 @@ int main(int argc, const char * argv[]) {
     }
     tries->startsWith(fg);
     tries->~Trie();
+    
+    return 0;
 };
 
 output:
